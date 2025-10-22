@@ -9,8 +9,6 @@
 Project ini adalah hasil tes teknis web programmer challange, berisi halaman **Login**, **Register**, dan **Dashboard** dengan fitur lengkap termasuk autentikasi, dark mode, validasi form, dan animasi loading.
 Di buat menggunakan **React.js**, **Node.js**, **Express**, dan **Tailwind CSS**, **JWT** authentication dan **MySQL** database.
 
-🔗 **Live Demo:** _(Tambahkan link jika sudah deploy)_
-
 ---
 
 ## ✨ Features
